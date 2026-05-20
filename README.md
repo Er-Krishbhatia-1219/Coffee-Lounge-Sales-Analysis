@@ -167,7 +167,7 @@ The dataset contains:
 Coffee-Lounge-Sales-Analysis
 │
 ├── Dashboard/
-│   ├── coffee_sales_dashboard.xlsx
+│   └── coffee_sales_dashboard.xlsx
 │
 ├── Dataset/
 │   └── coffee_sales_raw_data.xlsx
@@ -188,5 +188,3 @@ Coffee-Lounge-Sales-Analysis
 Data Analyst | BI Developer | Business Intelligence Enthusiast
 
 ---
-
-# ⭐ If you found this project useful, consider giving it a star!
