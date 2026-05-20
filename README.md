@@ -185,7 +185,7 @@ Coffee-Lounge-Sales-Analysis
 
 ## Krish Bhatia
 
-Aspiring Data Analyst | Excel Dashboard Developer | Business Intelligence Enthusiast
+Data Analyst | BI Developer | Business Intelligence Enthusiast
 
 ---
 
