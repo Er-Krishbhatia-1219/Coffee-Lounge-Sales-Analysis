@@ -168,7 +168,6 @@ Coffee-Lounge-Sales-Analysis
 │
 ├── Dashboard/
 │   ├── coffee_sales_dashboard.xlsx
-│   └── coffee_sales_dashboard.pdf
 │
 ├── Dataset/
 │   └── coffee_sales_raw_data.xlsx
